@@ -7,4 +7,4 @@
 ## Dependencies: LogTracker
 ## LoadOnDemand: 1
 
-LogTracker_CharacterData_EU.lua
+Array
