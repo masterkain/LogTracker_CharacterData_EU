@@ -1,3 +1,4 @@
+-- Server ID 5100: Mandokir
 if not (GetRealmName() == 'Mandokir') then
   return
 end

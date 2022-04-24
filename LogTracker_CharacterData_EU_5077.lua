@@ -1,3 +1,4 @@
+-- Server ID 5077: Transcendence
 if not (GetRealmName() == 'Transcendence') then
   return
 end

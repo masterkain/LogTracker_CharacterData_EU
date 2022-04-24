@@ -1,3 +1,4 @@
+-- Server ID 5108: Celebras
 if not (GetRealmName() == 'Celebras') then
   return
 end

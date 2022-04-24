@@ -1,3 +1,4 @@
+-- Server ID 5019: Auberdine
 if not (GetRealmName() == 'Auberdine') then
   return
 end

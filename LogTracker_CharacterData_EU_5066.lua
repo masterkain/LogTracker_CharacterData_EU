@@ -1,3 +1,4 @@
+-- Server ID 5066: Amnennar
 if not (GetRealmName() == 'Amnennar') then
   return
 end
