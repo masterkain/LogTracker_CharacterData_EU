@@ -1,0 +1,33 @@
+## Interface: 20504
+## Title: LogTracker_CharacterData_EU
+## Version: 1.0.0
+## Author: Mylaerla-Everlook
+## Notes: Data for characters
+## DefaultState: enabled
+## Dependencies: LogTracker
+## LoadOnDemand: 1
+
+LogTracker_CharacterData_EU.lua
+LogTracker_CharacterData_EU_5013.lua
+LogTracker_CharacterData_EU_5015.lua
+LogTracker_CharacterData_EU_5016.lua
+LogTracker_CharacterData_EU_5019.lua
+LogTracker_CharacterData_EU_5020.lua
+LogTracker_CharacterData_EU_5021.lua
+LogTracker_CharacterData_EU_5023.lua
+LogTracker_CharacterData_EU_5024.lua
+LogTracker_CharacterData_EU_5026.lua
+LogTracker_CharacterData_EU_5029.lua
+LogTracker_CharacterData_EU_5032.lua
+LogTracker_CharacterData_EU_5033.lua
+LogTracker_CharacterData_EU_5034.lua
+LogTracker_CharacterData_EU_5066.lua
+LogTracker_CharacterData_EU_5071.lua
+LogTracker_CharacterData_EU_5076.lua
+LogTracker_CharacterData_EU_5077.lua
+LogTracker_CharacterData_EU_5084.lua
+LogTracker_CharacterData_EU_5088.lua
+LogTracker_CharacterData_EU_5096.lua
+LogTracker_CharacterData_EU_5097.lua
+LogTracker_CharacterData_EU_5100.lua
+LogTracker_CharacterData_EU_5108.lua
