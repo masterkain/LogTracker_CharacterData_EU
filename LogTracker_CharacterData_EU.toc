@@ -38,3 +38,4 @@ LogTracker_CharacterData_EU_5096.lua
 LogTracker_CharacterData_EU_5097.lua
 LogTracker_CharacterData_EU_5100.lua
 LogTracker_CharacterData_EU_5108.lua
+LogTracker_CharacterData_EU_5194.lua
