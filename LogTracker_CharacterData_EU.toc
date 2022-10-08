@@ -20,6 +20,7 @@ LogTracker_CharacterData_EU_5016.lua
 LogTracker_CharacterData_EU_5019.lua
 LogTracker_CharacterData_EU_5020.lua
 LogTracker_CharacterData_EU_5021.lua
+LogTracker_CharacterData_EU_5023.lua
 LogTracker_CharacterData_EU_5024.lua
 LogTracker_CharacterData_EU_5026.lua
 LogTracker_CharacterData_EU_5029.lua
@@ -36,3 +37,4 @@ LogTracker_CharacterData_EU_5097.lua
 LogTracker_CharacterData_EU_5100.lua
 LogTracker_CharacterData_EU_5194.lua
 LogTracker_CharacterData_EU_5195.lua
+LogTracker_CharacterData_EU_5198.lua
